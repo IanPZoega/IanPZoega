@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://readme-stats-cool.vercel.app/api?username=IanPZoega&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
