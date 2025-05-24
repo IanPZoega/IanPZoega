@@ -8,8 +8,8 @@
 
 ## 👋 Olá! Eu sou o Ian
 
-Sou estudante de Desenvolvimento de Sistemas pela ETEC
-Tenho interesse em programação e tecnologia em geral. 
+Sou estudante de Desenvolvimento de Sistemas pela ETEC  
+Tenho interesse em programação e tecnologia em geral.  
 Atualmente estou aprendendo:
 
 - HTML, CSS, JavaScript
