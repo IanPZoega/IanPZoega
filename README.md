@@ -8,7 +8,7 @@
 
 ## 👋 Olá! Eu sou o Ian
 
-Sou estudante de Desenvolvimento de Sistemas pela ETEC  
+Sou estudante de Desenvolvimento de Sistemas pela ETEC.  
 Tenho interesse em programação e tecnologia em geral.  
 Atualmente estou aprendendo:
 
@@ -17,4 +17,4 @@ Atualmente estou aprendendo:
 - MySQL, Git e GitHub
 
 📌 Busco oportunidades como Programador Júnior ou em outras áreas de TI.  
-📫 Contato: [ianpzoega@email.com] | [LinkedIn](https://www.linkedin.com/in/ian-pendek-zoega-bab942303/)
+📫 Contato: [ianpzoega@gmail.com]
