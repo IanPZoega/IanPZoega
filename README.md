@@ -6,9 +6,9 @@
 </div>
 -->
 
-## 👋 Olá! Eu sou o Ian
+## 👋 Olá! Meu nome é Ian.
 
-Sou estudante de Desenvolvimento de Sistemas pela ETEC.  
+Sou estudante da ETEC cursando Análise e Desenvolvimento de Sistemas.  
 Tenho interesse em programação e tecnologia em geral.  
 Atualmente estou aprendendo:
 
@@ -17,4 +17,4 @@ Atualmente estou aprendendo:
 - MySQL, Git e GitHub
 
 📌 Busco oportunidades como Programador Júnior ou em outras áreas de TI.  
-📫 Contato: [ianpzoega@gmail.com]
+📫 Contato: ianpzoega@gmail.com
