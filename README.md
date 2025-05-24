@@ -6,7 +6,7 @@
 </div>
 -->
 
-## 👋 Olá! Meu nome é Ian.
+## 👋 Olá! Meu nome é Ian
 
 Sou estudante da ETEC cursando Análise e Desenvolvimento de Sistemas.  
 Tenho interesse em programação e tecnologia em geral.  
